@@ -1,7 +1,7 @@
 -- function love.draw()
 --     love.graphics.print("Hello game world!", 400, 300)
 -- end
-push
+
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 
