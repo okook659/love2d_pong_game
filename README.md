@@ -9,3 +9,5 @@ Pour lancer le jeu il vous faut lua et love2d installés.
 ## Utilisation
 A la racine du projet, lancez la commande : `love .`
 Vous devez avoir pour l'instant un projet comme ceci : ![Première capture!](/assets/images/captures/Capture.PNG)
+
+Mais je l'ai update donc là, ça ressemble à ça : ![Deuxième capture!](/assets/images/captures/capture2.PNG)
