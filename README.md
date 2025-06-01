@@ -1,13 +1,11 @@
 # PONG GAME IN LOVE2D❤
 
 ## Description
-Bienvenus à vous. Ce dépôt est consacré au développement d'un jeu vidéo de ping pong en lua. Nous utiliserons son framework love2d ❤. Le jeu est encore en cours de développement donc je vous prie d'être patient, merci.
+Bienvenus à vous. Ce dépôt est consacré au développement d'un jeu vidéo de ping pong en lua. Nous utiliserons son framework love2d ❤. Les assets proviennent de itch.io . Rien ne m'appartient à part la logique du jeu Merci.
 
 ## Prérequis
 Pour lancer le jeu il vous faut lua et love2d installés.
 
 ## Utilisation
 A la racine du projet, lancez la commande : `love .`
-Vous devez avoir pour l'instant un projet comme ceci : ![Première capture!](/assets/images/captures/Capture.PNG)
-
-Mais je l'ai update donc là, ça ressemble à ça : ![Deuxième capture!](/assets/images/captures/capture2.PNG)
+Vous devez avoir un projet comme ceci : ![Première capture!](/assets/images/captures/pong.PNG)
